@@ -7,9 +7,9 @@
 
 [Data Source](#data-source)
 
-[Tools Used](tools-used)
+[Tools Used](#tools-used)
 
-[Data Preparation](data-preparation)
+[Data Preparation](#data-preparation)
 
 [Data Overview]
 
