@@ -1,7 +1,7 @@
 # Superstore-Evaluation
 ---
 
-## Table of Content
+# Table of Content
 
 [Project Overview](#project-overview)
 
@@ -37,6 +37,12 @@ A primary *Excel data file* that contains information on superstore transactions
 ## Tools Used
 
 1. Excel
+
+- Data cleaning and structuring. 
+  - [Highlighted Here](https://ibb.co/YTNDsCMm)
+- Exploring and performance across categories in Superstores. 
+- Data Visualization
+  - [Click here](https://ibb.co/ns5vps1M)
 
 
 2. Power BI
@@ -143,7 +149,7 @@ The outcome of the analysis are outlined as folloes:
 
 ## Recommendations
 
-### Regiom
+### Region
 - Sales and marketing efforts should be improved in the South and Central regions to improve overall revenue distribution.
 
 ### Region and Ship mode
