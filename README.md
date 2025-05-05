@@ -147,6 +147,8 @@ The outcome of the analysis are outlined as folloes:
 
 8.	There is an upward trend in both sales and profits form 2011(0.48M) to 2014(0.73M).
 
+9.  A show of geographic map sales spread 
+
 ## Recommendations
 
 ### Region
@@ -164,12 +166,17 @@ The outcome of the analysis are outlined as folloes:
 - Discounts can be replaced with complementary value bundle (Printer + Paper)
 
 ### Product Name
-- Upsells and promotions should be made for this ten product lines
+- Upsells and promotions should be made for this ten product line
  - Customer feedbacks should be assessed on underperformed product lines on their choice reason.
 
 ### Segment and Category
 - Implement the use of Cross selling, suggesting technology tools to corporate clients and office essentials to consumer.
 
+
+##Limitations
+
+During the development of this Power BI report, the complete dataset could not be fully loaded due to memory and platform performance limits when handling large datasets. 
+As a result, a cleaned and representative subset of the data was used to ensure smooth interactivity and accurate analysis without compromising performance.
 
 
 
