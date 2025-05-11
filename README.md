@@ -58,7 +58,10 @@ A primary *Excel data file* that contains information on superstore transactions
      
   2.	Handling errors
      
-  3.	Data formatting – Column Type 
+  3.	Data formatting – Column Type
+
+    	 - Cleaning of misformat in Order date and Ship date for accuracy in data manipulatio0n 
+
 
 ## Data Overview
 
