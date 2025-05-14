@@ -136,21 +136,21 @@ viii.	What are the Sales Performance across Segment and Categories .
 ## Key Findings
 The outcome of the analysis are outlined as folloes:
 
-1.	The high performing regions are West and East with a Revenue of 725K and 679K respectively and low performing regions are Central and South with revenue of 501K and 392K.
+1.	The high performing regions are West and East with a Revenue of ~725K and ~679K respectively and low performing regions are Central and South with revenue of ~501K and ~392K.
 
 2.	Standard class is the dominant shipping mode across all regions, with minimal use of First Class and Same day options.
 
-3.	The consumer segment generates the highest sales, Corporate segment next in- line and the Home office segments lagging behind across all regions.
+3.	The consumer segment generates the top sales, Corporate segment next in- line and the Home office segments lagging behind around all regions.
 
 4.	Discounts between 0-0.2 yields positive profits indicating gain-making transactions. Discounts higher than 0.2 yield negative profit, indicating loss-making transactions.  
 
-5.	The Revenue by segment and category indicate that Consumer outperforms both Corporate and Home Office Segment in all Categories of Technology, Office Supplies and Furniture. Technology products has the largest sales and furniture contributing lower sales across all segments.  
+5.	The Revenue by segment and category indicate that Consumer outdo both Corporate and Home Office Segment in all Categories of Technology, Office Supplies and Furniture. Technology products has the largest sales and furniture contributing lower sales across all segments.  
 
 6.	 The Top 10 Product lines with best sales are aligned Descending in this order of Canon imageCLASS 2200 Advanced Copier < Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind < Cisco TelePresence System EX90 Videoconferencing Unit< HON 5400 Series Task Chairs for Big and Tall< GBC DocuBind TL300 Electric Binding System< GBC Ibimaster 500 Manual ProClick Binding System< Hewlett Packard LaserJet 3310 Copier< GBC DocuBind P400 Electric Binding System< HP Designjet T520 Inkjet Large Format Printer - 24" Color< High Speed Automatic Electric Letter Opener.
 
 7.	Technology absorbs discounts pressure much better than Office supplies and Furniture. Furniture reveals the highest decline in profit with increased discounts. 
 
-8.	There is an upward trend in both sales and profits form 2011(0.48M) to 2014(0.73M).
+8.	There is an upward trend in both sales and profits from 2011(0.48M) to 2014(0.73M).
 
 9.  A show of geographic map sales spread 
 
