@@ -15,9 +15,9 @@
 
 [Tabular Overview](#tabular-overview) 
 
-[Analysis Visualisation](#analysis-visualisation)
-
 [Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Analysis Visualisation](#analysis-visualisation)
 
 [Key Findings](#key-findings)
 
@@ -102,16 +102,6 @@ A brief overview of the tabular datasets to be evaluated. the first 5 records ar
 |5	|US-2012-108966|	11/10/12|	18-10-2012|	Standard Class|	SO-20335|	Sean O'Donnell|	Consumer|	United States|	Fort Lauderdale|	Florida|	33311|	South|	OFF-ST-10000760|	Office Supplies|	Storage|	Eldon Fold 'N Roll Cart System|	22.368|	2|	0.2|	2.5164|
 
 
-
-## Analysis Visualisation
-Chart Visualisation of the transformed data
-
-
-![Screenshot (112)](https://github.com/user-attachments/assets/ba029492-3c37-4050-907d-939a209074aa)
-
-![Screenshot (42)](https://github.com/user-attachments/assets/5711c7fa-da53-4d65-868f-0c145681d5de)
-
-
 ## Exploratory Data Analysis
 
 Data is explored to answer Key question such as;
@@ -131,6 +121,18 @@ vi.	What is the Yearly Sales Trend .
 vii.	What customer groups has high and low revenues (sales) in specific regions.
 
 viii.	What are the Sales Performance across Segment and Categories .
+
+
+## Analysis Visualisation
+Chart Visualisation of the transformed data
+
+
+![Screenshot (112)](https://github.com/user-attachments/assets/ba029492-3c37-4050-907d-939a209074aa)
+
+![Screenshot (42)](https://github.com/user-attachments/assets/5711c7fa-da53-4d65-868f-0c145681d5de)
+
+
+
 
 
 ## Key Findings
