@@ -106,8 +106,8 @@ A brief overview of the tabular datasets to be evaluated. the first 5 records ar
 ## Analysis Visualisation
 Chart Visualisation of the transformed data
 
-![Screenshot (41)](https://github.com/user-attachments/assets/d2c0ab22-2cc6-4b4c-ac48-e3ad0150aac9)
 
+![Screenshot (112)](https://github.com/user-attachments/assets/ba029492-3c37-4050-907d-939a209074aa)
 
 ![Screenshot (42)](https://github.com/user-attachments/assets/5711c7fa-da53-4d65-868f-0c145681d5de)
 
@@ -134,7 +134,7 @@ viii.	What are the Sales Performance across Segment and Categories .
 
 
 ## Key Findings
-The outcome of the analysis are outlined as folloes:
+The outcome of the analysis are outlined as follows:
 
 1.	The high performing regions are West and East with a Revenue of ~725K and ~679K respectively and low performing regions are Central and South with revenue of ~501K and ~392K.
 
